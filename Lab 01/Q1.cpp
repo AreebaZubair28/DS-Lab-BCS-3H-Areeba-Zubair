@@ -21,7 +21,12 @@ public:
     }
 
     void withdraw(float amt) {
-        balance -= 200;
+        if(amt > balance) {
+            cout << "Excess amount\n";
+        } else {
+            balance -= 200;
+            cout<<"Amount withdrew\n";
+        }
     }
 
     void print() {
