@@ -22,6 +22,8 @@ int main() {
         cin>>choise;
      }while(choise == "yes");
     
+    cout << endl; 
+    
     for(int i=0; i<size; i++) {
         cout << "Element " << i+1 << ": " << arr[i] << endl;
     }
