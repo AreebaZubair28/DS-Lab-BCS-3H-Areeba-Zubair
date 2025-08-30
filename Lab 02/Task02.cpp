@@ -18,9 +18,8 @@ int main() {
     string choise;
     do{
         cout << "Enter bench: "; cin>>bench;
-        cout << "Enter seat: "; cin>>seat;
-
         if(bench > 0 && bench-1 < row) {
+            cout << "Enter seat: "; cin>>seat;
             if(seat > 0 && seat-1 < col) {
                 arr[bench-1][seat-1] = 1;
                 cout << "Bench " << bench << ", Seat " << seat << " is occupied.\n";
