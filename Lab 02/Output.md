@@ -8,6 +8,7 @@
 <img width="686" height="552" alt="image" src="https://github.com/user-attachments/assets/1be7bf6d-2fcd-4c7f-9320-8b7335fbfe96" />
 
 # Task 04:
+<img width="546" height="397" alt="image" src="https://github.com/user-attachments/assets/a74a0ec0-ff65-4a0f-ba5f-a31da85ccdae" />
 
 # Task 05:
 
