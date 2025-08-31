@@ -3,3 +3,20 @@
 
 # Task 02:
 <img width="598" height="497" alt="image" src="https://github.com/user-attachments/assets/ded45604-a6e0-407e-9a8c-90e6ddcf9b37" />
+
+# Task 03:
+<img width="686" height="552" alt="image" src="https://github.com/user-attachments/assets/1be7bf6d-2fcd-4c7f-9320-8b7335fbfe96" />
+
+# Task 04:
+
+# Task 05:
+
+# Task 06:
+
+# Task 07:
+
+# Task 08:
+
+# Task 09:
+
+# Task 10:
