@@ -20,6 +20,7 @@
 <img width="708" height="473" alt="image" src="https://github.com/user-attachments/assets/27eb3409-7a00-4a54-83e7-d0f72058da38" />
 
 # Task 08:
+<img width="798" height="581" alt="image" src="https://github.com/user-attachments/assets/8dc429ce-b907-4b57-a821-1f0c84a08f3f" />
 
 # Task 09:
 
