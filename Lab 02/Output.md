@@ -26,3 +26,4 @@
 <img width="484" height="453" alt="image" src="https://github.com/user-attachments/assets/27e63cd8-d677-40ec-a7d8-6926267ff29c" />
 
 # Task 10:
+<img width="421" height="302" alt="image" src="https://github.com/user-attachments/assets/05acc19e-fe88-419c-bb19-799cc3dbc804" />
