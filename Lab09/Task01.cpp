@@ -160,7 +160,6 @@ int main() {
         cout << "Height of Tree: " << height(root); 
         cout << endl << endl;
     }
-    cout << root->rollNo;
 
     cout << "\n----- DELETION PHASE -----\n";
     root = Delete(root, 661);
